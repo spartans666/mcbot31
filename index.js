@@ -5,7 +5,6 @@ function createBot() {
     host: "zurnacraft.net",
     port: 25565,
     username: "fiategeaafk",
-                          
     version: "1.19"
   })
 
